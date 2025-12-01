@@ -46,8 +46,8 @@ Página de venta de viajes para empresas.
 ---
 <p align="center">
 ### ☠️ Mensaje final
-> _"Es Pan."_  
-> _"Está bien... Es solo un sueño"._
+<p align="center">> _"Es Pan."_ </p> 
+<p align="center">> _"Está bien... Es solo un sueño"._</p>
 </p>
 
 ---

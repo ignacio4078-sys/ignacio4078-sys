@@ -49,6 +49,9 @@ Página de venta de viajes para empresas.
 > _"Es Pan."_  
 > _"Está bien... Es solo un sueño"._
 </p>
+
+---
+
 <p align="center">
   <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/silent-hill-2.gif?raw=true" />
 </p>

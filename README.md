@@ -25,16 +25,16 @@ Mi comida favorita es la milanesa y AMO el helado ♥.
 ### 🔧 Proyectos Destacados
 
 🌫️ **[Reloj-Digital-Silent-Hill](https://github.com/ignacio4078-sys/Reloj-Digital-Silent-Hill)**  
-Reloj digital con estética terrorífica basada en Silent Hill.
+Reloj digital con estética de Silent Hill.
 
 🧮 **[Calculadora](https://github.com/ignacio4078-sys/Calculadora)**  
-Mi primer proyecto, simple pero especial.
+CalculaDROSS.
 
 🛒 **[Carrito-supermercado-Astro](https://github.com/ignacio4078-sys/Carrito-supermercado-Astro)**  
-Proyecto práctico de compras interactivo.
+proyecto Tienda "ASTRO".
 
 🛫 **[Página-de-venta-de-viajes](https://github.com/ignacio4078-sys/Pagina-de-venta-de-viajes)**  
-Página visual con destinos, fondos e interacción.
+Página de venta de viajes para empresas.
 
 ---
 
@@ -46,8 +46,8 @@ Página visual con destinos, fondos e interacción.
 ---
 
 ### ☠️ Mensaje final
-> _"In the fog, every commit cuenta… incluso los que nunca existieron."_  
-> _Si ves mis repos, quizá encuentres algo que no deberías._
+> _"Es Pan."_  
+> _"Está bien... Es solo un sueño"._
 
 <p align="center">
   <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/silent-hill-2.gif?raw=true" />

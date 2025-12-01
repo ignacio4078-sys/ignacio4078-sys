@@ -1,6 +1,6 @@
 <!-- Banner tipo Silent Hill -->
 <p align="center">
-  <img src="[[[https://i.imgur.com/1T6Yz8Z.jpeg](https://cdn.wallpapersafari.com/19/33/neFflV.jpg)](https://i.pinimg.com/736x/58/d4/46/58d44624db4fbdc295a5d18b351b5756.jpg)](https://timelinecovers.pro/facebook-cover/download/video-game-silent-hill-facebook-cover.jpg)" width="100%" alt="Silent Hill fog banner"/>
+  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/silentB.jpg?raw=true" width="100%" alt="Silent Hill fog banner"/>
 </p>
 
 <h1 align="center">🔻 Ignacio Larracochea 🔻</h1>

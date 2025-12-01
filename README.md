@@ -1,6 +1,6 @@
 <!-- Banner tipo Silent Hill -->
 <p align="center">
-  <img src="https://i.imgur.com/1T6Yz8Z.jpeg" width="100%" alt="Silent Hill fog banner"/>
+  <img src="[https://i.imgur.com/1T6Yz8Z.jpeg](https://cdn.wallpapersafari.com/19/33/neFflV.jpg)" width="100%" alt="Silent Hill fog banner"/>
 </p>
 
 <h1 align="center">🔻 Ignacio Larracochea 🔻</h1>

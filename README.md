@@ -41,7 +41,7 @@ Página visual con destinos, fondos e interacción.
 ### 🔥 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacio4078-sys&show_icons=true&theme=dark&title_color=9e2a2b&text_color=ffffff&icon_color=9e2a2b&bg_color=0d1117" />
+  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/silent.webp?raw=true" />
 </p>
 
 ---

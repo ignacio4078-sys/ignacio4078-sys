@@ -10,8 +10,8 @@
 
 ### 🩸 Sobre mí
 Soy Ignacio.  
-Me encanta la programación, el terror psicológico y aprender cosas nuevas.  
-Entre líneas de código y líneas de niebla, siempre estoy creando algo.
+Me encanta la programación,jugar juegos de terror en mis tiempos libres.  
+Mi comida favorita es la milanesa y AMO el helado ♥.
 
 ---
 

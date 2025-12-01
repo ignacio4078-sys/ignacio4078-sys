@@ -17,7 +17,7 @@ mi comida favorita es la milanesa y amo el helado ♥.
 
 ### ☁️ Tecnologías que uso
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,github,vscode" />
+  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/logosh.jpg?raw=true" />
 </p>
 
 ---

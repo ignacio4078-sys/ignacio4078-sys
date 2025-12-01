@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🔻 Ignacio Larracochea 🔻</h1>
-<h3 align="center">"Everything is true... and nothing is real."</h3>
+<h3 align="center">"¡Este pueblo está lleno de monstruos! ¿Cómo puedes sentarte ahí a comer pizza?."</h3>
 
 ---
 

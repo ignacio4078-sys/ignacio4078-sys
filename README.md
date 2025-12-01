@@ -15,12 +15,6 @@ mi comida favorita es la milanesa y amo el helado ♥.
 
 ---
 
-### ☁️ Tecnologías que uso
-<p align="left">
-  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/logosh.jpg?raw=true" />
-</p>
-
----
 
 ### 🔧 Proyectos Destacados
 
@@ -50,6 +44,4 @@ Página visual con destinos, fondos e interacción.
 > _"COMMITEABA ESA."_  
 > _Si ves mis repos, quizá encuentres algo que te asuste o que te sirva._
 
-<p align="center">
-  <img src="https://i.imgur.com/zI3MJtI.gif" width="180px" />
-</p>
+<div class="tenor-gif-embed" data-postid="591877963255521865" data-share-method="host" data-aspect-ratio="1.11161" data-width="100%"><a href="https://tenor.com/view/silent-hill-2-gif-591877963255521865">Silent Hill 2 GIF</a>from <a href="https://tenor.com/search/silent+hill+2-gifs">Silent Hill 2 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>

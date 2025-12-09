@@ -15,6 +15,25 @@ Mi comida favorita es la milanesa y AMO el helado ♥.
 
 ---
 
+---
+
+### 🩸 Titulos
+
+
+<p align="center">
+  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/Certificado%20Coderhouse%20JS.png?raw=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/Certificado%20React%20JS.png?raw=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ignacio4078-sys/ignacio4078-sys/blob/main/img/Certificado%20desarrollo%20web.png?raw=true" />
+</p>
+
+---
+
 ### ☁️ Tecnologías que uso
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,github,vscode" />

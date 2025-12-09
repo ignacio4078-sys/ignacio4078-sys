@@ -9,11 +9,13 @@
 ---
 
 ### 🩸 Sobre mí
-Soy Ignacio.  
+Me llamo Ignacio.
+Estudie y me recibi en Coderhouse en los lenguajes de Html,Css,JS y React JS.
+Soy estudiante de la carrera Tecnicatura en Tecnologías Web.
+Estudio en la Universidad Nacional del Oeste.
+Actualmente por mi cuenta me encuentro estudiando Node.js/Express, mysql/nomysql MongoDB.
 Me encanta la programación,jugar juegos de terror en mis tiempos libres.  
 Mi comida favorita es la milanesa y AMO el helado ♥.
-
----
 
 ---
 

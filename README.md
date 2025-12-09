@@ -10,7 +10,7 @@
 
 ### 🩸 Sobre mí
 *   Me llamo Ignacio.
-*   Estudié y me recibí en [Coderhouse]([www.coderhouse.com](https://www.coderhouse.com/ar/?pipe_source=google&pipe_medium=cpc&pipe_campaign=0&gad_source=1&gad_campaignid=12058006243&gbraid=0AAAAACoxfTL_tjuKCXRJmqWtmFbVcgeGW&gclid=Cj0KCQiAi9rJBhCYARIsALyPDtu1maB0Wk2NzwS3FPLmMd1tQTxLP7HovuiGZLMCv6wXRUXQEHaS1HoaAssGEALw_wcB)) en los lenguajes de Html, Css, JS y React JS.
+*   Estudié y me recibí en [Coderhouse]([www.coderhouse.com]) en los lenguajes de Html, Css, JS y React JS.
 *   Soy estudiante de la carrera Tecnicatura en Tecnologías Web.
 *   Estudio en la [Universidad Nacional del Oeste](www.uno.edu.ar).
 *   Actualmente por mi cuenta me encuentro estudiando Node.js/Express, MySQL/NoSQL y MongoDB.

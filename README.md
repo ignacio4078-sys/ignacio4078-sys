@@ -39,7 +39,7 @@
 
 ### ☁️ Tecnologías que uso
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,github,vscode,typescript" />
 </p>
 
 ---
